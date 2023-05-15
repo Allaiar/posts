@@ -4,10 +4,6 @@ body {
 .App {
   text-align: center;
 }
-.posts {
-  display: flex;
-  flex-wrap: wrap;
-}
 .flex{
   display: flex;
   justify-content: center;
